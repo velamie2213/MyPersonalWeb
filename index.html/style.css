@@ -1,0 +1,169 @@
+body{
+	background-color:none;
+	margin: 0px;
+	box-sizing: border-box;
+	margin-top:0px;
+*{
+    margin-top:0;
+}	
+}
+header{
+	
+	background-color:white;
+	padding:5px;
+	height: 30px;
+}
+.fbutton{
+	float:right;
+	width:100px;
+	height:30px;
+	background-color:#f5c320;
+	border:3px solid #f5c320;
+	border-radius:25px;
+	margin-right:200px;	
+}
+.sbutton{
+	float:right;
+	width:100px;
+	height:30px;
+	background-color:black;
+	border:3px solid black;
+	border-radius:25px;
+	margin-right:200px;	
+}
+.tbutton{
+	float:right;
+	width:100px;
+	height:30px;
+	background-color:#f5c320;
+	border:3px solid #f5c320;
+	border-radius:25px;
+	margin-right:200px;
+}
+
+}
+#main{
+	background-color:white;
+	margin-top:0px;
+	
+}
+
+
+#container{
+	background-color: white;
+	margin-left:50px; white;
+	margin-right: 0px;
+	
+	
+}
+#firstImg{
+	margin-top:0px;
+}
+
+	
+#main{
+	
+	flex:1;
+}
+.header2{
+	background-color:white;
+}
+}
+.page2{
+		
+}
+.pheader{
+	background-color:#c9cdd4;
+	padding:10px;
+	height: 30px;
+}
+.content{
+	
+	text-align:center;
+	padding-left: 100px;
+	background-color:black;
+}
+
+.Pimg{
+	margin-left:50px;
+	margin-top:50px;
+	margin-right:50px;
+	float:left;
+	width:350px;
+	height:350px;
+	border: 5px solid black;
+	border-radius:200px;
+	
+}
+
+.haha{
+	
+	margin:0px;
+}
+.info{
+	font-size: 20px;
+	text-align:left;
+}
+.header3{
+	background:white;	
+}
+.leftbar{
+	height:400px;
+	width:50px;
+	background-color:#f5c320;
+	float:left;
+}
+
+.box{
+	background-color:white;
+	padding-left:50px;
+	float:right;
+	padding-top:50px;
+	
+}
+.hobbies{
+	padding-top:100px;
+	float:left;
+	padding-left:50px;
+}
+
+.picOne{
+	
+	width:250px;
+	height:250px;
+	margin-left:50px;
+	
+	
+}
+.picTwo{
+	width:250px;
+	height:250px;
+	margin-left:50px;
+	
+	
+}.picThree{
+
+	width:250px;
+	height:250px;
+	margin-left:50px;
+	margin-right:50px;
+}
+.firstText{
+	font-size:20px;
+	float:left;
+	padding-left:50px;	
+}
+.secondText{
+	font-size:20px;
+	padding-left:110px;	
+	float:left;
+}
+.thirdText{
+	font-size:20px;
+	padding-left:160px;	
+	float:left;
+}
+.header4{
+	background-color:white;
+	text-align:center;
+}
